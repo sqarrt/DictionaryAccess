@@ -1,4 +1,4 @@
-# DictionaryAccess - easy acces t o multilevel dictionaries
+# DictionaryAccess - easy access to multilevel dictionaries
 
 DictionaryAccess allows you to easily access your dictionaries field through '.' operator. Check out how does it works:
 - import module;
